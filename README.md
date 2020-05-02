@@ -84,10 +84,10 @@ but also on material from the assigned readings.
 | June 15  | No class Wednesday
 | June 22  | No class
 | June 29  | No class _Study for exam next week_.
-| July 6   | Monday exam review, In class exam Wednesday
-| July 13  | [Assignment 6 (Shader Pipeline) due 12/11](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
-| July 20  | Drop date [Assignment 7 (Kinematics) due 19/11](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
-| July 27  | [Assignment 8 (Mass-Spring Systems) due 3/12](https://github.com/alecjacobson/computer-graphics-mass-spring-systems)
+| July 6   | Monday exam review, In class exam Wednesday July 8
+| July 13  | [Assignment 6 (Shader Pipeline) due 21/07](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
+| July 20  | Drop date [Assignment 7 (Kinematics) due 28/07](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
+| July 27  | [Assignment 8 (Mass-Spring Systems) due 4/08](https://github.com/alecjacobson/computer-graphics-mass-spring-systems)
 | August 3 | The future of Computer Graphics
 | August 10| _Study for exam next week_.
 | Final | Final exam (24% of grade)
