@@ -77,20 +77,20 @@ but also on material from the assigned readings.
 | ---- | :------------ |
 | May 4    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 12/05](https://github.com/alecjacobson/computer-graphics-raster-images)
 | May 11   | [Assignment 2 (Ray Casting) due 19/05](https://github.com/alecjacobson/computer-graphics-ray-casting)
-| May 18   | No class on Monday (Victoria Day), Introduce Ray Tracing 
+| May 18   | No class on Monday (Victoria Day), Wednesday: Introduce Ray Tracing 
 | May 25   | [Assignment 3 (Ray Tracing) due 02/06](https://github.com/alecjacobson/computer-graphics-ray-tracing) 
 | June 1   | [Assignment 4 (Bounding Volume Hierarchy) due 09/06](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy) (**Note:** `./intersections` related portion only worth 10%)
 | June 8   | [Assignment 5 (Meshes) due 16/06](https://github.com/alecjacobson/computer-graphics-meshes) (**Note:** `./quad_subdivision` related portion only worth 10%)
-| June 15  | No class Wednesday
+| June 15  | Monday: Meshes assignment, No class Wednesday
 | June 22  | No class
 | June 29  | No class _Study for exam next week_.
-| July 6   | Monday exam review, In class exam Wednesday July 8
+| July 6   | Monday: exam review, In class exam Wednesday July 8
 | July 13  | [Assignment 6 (Shader Pipeline) due 21/07](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
-| July 20  | Drop date [Assignment 7 (Kinematics) due 28/07](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
+| July 20  | (Drop date) [Assignment 7 (Kinematics) due 28/07](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | July 27  | [Assignment 8 (Mass-Spring Systems) due 4/08](https://github.com/alecjacobson/computer-graphics-mass-spring-systems)
 | August 3 | The future of Computer Graphics
-| August 10| _Study for exam next week_.
-| Final | Final exam (24% of grade)
+| August 10| Exam Review _Study for exam next week_.
+| August 17| Final exam (24% of grade)
 
 [Academic Honesty (required reading)](#academichonesty)
 
