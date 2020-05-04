@@ -3,7 +3,7 @@
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
 Mondays, Wednesdays 13:00-14:00 on Zoom  
-[Sarah Kushner](http://www.cs.toronto.edu/~jacobson/)  
+Sarah Kushner
 csc418-2020-05@cs.toronto.edu  
 
 **Tutorial** will be held on Fridays 13:00-14:00 on Zoom
@@ -98,7 +98,7 @@ but also on material from the assigned readings.
 
 ## Assignment Policies
 
-Assignments must be submitted electronically, using [MarkUs](https://markus.teach.cs.toronto.edu/csc418-2019-09/).
+Assignments must be submitted electronically, using [MarkUs](https://markus.teach.cs.toronto.edu/csc418-2020-05/).
 
 Code that you submit to us must work on the CS Teaching Lab machines in order to earn credit.
 
