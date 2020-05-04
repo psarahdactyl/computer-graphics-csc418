@@ -8,11 +8,11 @@ csc418-2020-05@cs.toronto.edu
 
 **Tutorial** will be held on Fridays 13:00-14:00 on Zoom
 
-- [Course Overview](#courseoverview)
-- [Required Textbook](#requiredtextbook)
-- [Lecture Schedule](#lectureschedule)
-- [Marking Scheme](#markingscheme)
-- [Assignment Policies](#assignmentpolicies)
+- [Course Overview](#course-overview)
+- [Required Textbook](#required-textbook)
+- [Lecture Schedule](#lecture-schedule)
+- [Marking Scheme](#marking-scheme)
+- [Assignment Policies](#assignment-policies)
 
 ## Course Overview
 
