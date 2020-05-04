@@ -60,6 +60,7 @@ but also on material from the assigned readings.
 
 | % | Item |
 | ----: | :-------------- |
+| 1% | Pre-test & survey |
 | 8% | Assignment 1 | 
 | 8% | Assignment 2 | 
 | 8% | Assignment 3 | 
@@ -68,8 +69,8 @@ but also on material from the assigned readings.
 | 8% | Assignment 6 | 
 | 8% | Assignment 7 | 
 | 8% | Assignment 8 | 
-| 12% | Midterm exam |
-| 24% | Final exam |
+| 15% | Midterm exam |
+| 20% | Final exam |
 
 ## Lecture Schedule
 
