@@ -11,6 +11,7 @@ csc418-2020-05@cs.toronto.edu
 - [Course Overview](#course-overview)
 - [Required Textbook](#required-textbook)
 - [Lecture Schedule](#lecture-schedule)
+- [Reading Schedule](#reading-schedule)
 - [Marking Scheme](#marking-scheme)
 - [Assignment Policies](#assignment-policies)
 
@@ -90,6 +91,27 @@ but also on material from the assigned readings.
 | July 20  | (Drop date) [Assignment 7 (Kinematics) due 28/07](https://github.com/alecjacobson/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | July 27  | [Assignment 8 (Mass-Spring Systems) due 4/08](https://github.com/alecjacobson/computer-graphics-mass-spring-systems)
 | August 3 | The future of Computer Graphics
+| August 10| Exam Review _Study for exam next week_.
+| August 17| Final exam (20% of grade)
+
+## Reading Schedule
+
+| Week | Topic / Event |
+| ---- | :------------ |
+| May 4    | Raster Images: Chapter 3
+| May 11   | Ray Casting: Sections 4.1-4.4
+| May 18   | Ray Tracing: Sections 4.5-4.9
+| May 25   | Ray Tracing cont.
+| June 1   | Bounding Volume Hierarchy: Section 12.3
+| June 8   | Meshes: Section 12.1 & skim Chapter 11
+| June 15  | Meshes cont.
+| June 22  | No class
+| June 29  | No class _Study for exam next week_.
+| July 6   | Monday: exam review, In class exam Wednesday July 8 (15% of grade)
+| July 13  | Shading: Review Chapters 6,7,8.1,8.2 & Read Sections 11.4,11.5 & 17
+| July 20  | Kinematics: Sections 15.1-15.5 & 16.1-16.4
+| July 27  | Mass Spring Systems: Section 16.5 & ["Fast Simulation of Mass-Spring Systems" [Tiantian Liu et al. 2013]](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf)
+| August 3 | None
 | August 10| Exam Review _Study for exam next week_.
 | August 17| Final exam (20% of grade)
 
