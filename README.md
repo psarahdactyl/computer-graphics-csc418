@@ -74,7 +74,7 @@ but also on material from the assigned readings.
 | 20% | Final exam |
 
 ## Lecture Schedule
-
+**Note:** Most slides are adapted from Professor David Levin's offering of the course.
 | Week | Topic / Event |
 | ---- | :------------ |
 | May 4    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 12/05](https://github.com/alecjacobson/computer-graphics-raster-images)
