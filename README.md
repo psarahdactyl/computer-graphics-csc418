@@ -78,7 +78,7 @@ but also on material from the assigned readings.
 | Week | Topic / Event |
 | ---- | :------------ |
 | May 4    | Introduction, Demos of Solutions [Assignment 1 (Raster Images) due 12/05](https://github.com/alecjacobson/computer-graphics-raster-images)
-| May 11   | [Assignment 2 (Ray Casting) due 19/05](https://github.com/psarahdactyl/computer-graphics-ray-casting)
+| May 11   | [Assignment 2 (Ray Casting) due 20/05](https://github.com/psarahdactyl/computer-graphics-ray-casting)
 | May 18   | No class on Monday (Victoria Day), Wednesday: Introduce Ray Tracing 
 | May 25   | [Assignment 3 (Ray Tracing) due 02/06](https://github.com/psarahdactyl/computer-graphics-ray-tracing) 
 | June 1   | [Assignment 4 (Bounding Volume Hierarchy) due 09/06](https://github.com/psarahdactyl/computer-graphics-bounding-volume-hierarchy) (**Note:** `./intersections` related portion only worth 10%)
