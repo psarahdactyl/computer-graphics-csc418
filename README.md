@@ -82,7 +82,7 @@ but also on material from the assigned readings.
 | May 18   | No class on Monday (Victoria Day), Wednesday: Introduce Ray Tracing 
 | May 25   | [Assignment 3 (Ray Tracing) due 02/06](https://github.com/psarahdactyl/computer-graphics-ray-tracing) 
 | June 1   | [Assignment 4 (Bounding Volume Hierarchy) due ~~09/06~~ 11/06](https://github.com/psarahdactyl/computer-graphics-bounding-volume-hierarchy) (**Note:** `./intersections` related portion only worth 10%)
-| June 8   | [Assignment 5 (Meshes) due 16/06](https://github.com/psarahdactyl/computer-graphics-meshes) (**Note:** `./quad_subdivision` related portion only worth 10%)
+| June 8   | [Assignment 5 (Meshes) due ~~16/06~~ 21/06](https://github.com/psarahdactyl/computer-graphics-meshes) (**Note:** `./quad_subdivision` related portion only worth 10%)
 | June 15  | Monday: Meshes assignment, No class Wednesday
 | June 22  | No class
 | June 29  | No class _Study for exam next week_.
