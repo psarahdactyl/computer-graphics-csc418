@@ -87,7 +87,7 @@ but also on material from the assigned readings.
 | June 22  | No class
 | June 29  | No class _Study for exam next week_.
 | July 6   | Monday: exam review, In class exam Wednesday July 8 (15% of grade)
-| July 13  | [Assignment 6 (Shader Pipeline) due ~~23/07~~ **23/07**](https://github.com/psarahdactyl/computer-graphics-shader-pipeline)
+| July 13  | [Assignment 6 (Shader Pipeline) due ~~23/07~~ **26/07**](https://github.com/psarahdactyl/computer-graphics-shader-pipeline)
 | July 20  | (Drop date) [Assignment 7 (Kinematics) due ~~30/07~~ **02/08**](https://github.com/psarahdactyl/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | July 27  | [Assignment 8 (Mass-Spring Systems) due ~~6/08~~ **09/08**](https://github.com/psarahdactyl/computer-graphics-mass-spring-systems)
 | August 3 | Bonus Assignment due 17/08, Intro to Geometry Processing
