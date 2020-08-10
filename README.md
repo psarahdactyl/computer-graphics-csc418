@@ -90,9 +90,9 @@ but also on material from the assigned readings.
 | July 13  | [Assignment 6 (Shader Pipeline) due ~~23/07~~ **26/07**](https://github.com/psarahdactyl/computer-graphics-shader-pipeline)
 | July 20  | (Drop date) [Assignment 7 (Kinematics) due ~~30/07~~ **02/08**](https://github.com/psarahdactyl/computer-graphics-kinematics) (**Note:** inverse kinematices `I,i` related portion only worth 10%)
 | July 27  | [Assignment 8 (Mass-Spring Systems) due ~~6/08~~ **09/08**](https://github.com/psarahdactyl/computer-graphics-mass-spring-systems)
-| August 3 | Bonus Assignment due 17/08, Intro to Geometry Processing
-| August 10| Intro to Physics Based Animation & Exam Review _Study for exam next week_.
-| August 17| Final exam (20% of grade)
+| August 3 | Computational Fabrication
+| August 10| Lectures: Intro to Geometry Processing and Physics Based Animation. **Bonus Assignment due 16/08**
+| August 17| Exam Review on Monday. **Final exam held online 22/08 at 9PM EDT (20% of grade)**
 
 ## Reading Schedule
 
